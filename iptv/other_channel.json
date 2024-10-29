@@ -1,0 +1,28 @@
+[
+  {
+    "id": "169313",
+    "title": "7x Music",
+    "description": "7x Music Channel",
+    "duration": "86",
+    "thumbURL": "https://i.imgur.com/F17QtN2.png",
+    "imgURL": "https://i.imgur.com/F17QtN2.png",
+    "videoURL": "http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8",
+    "categories": [
+      "Music"
+    ],
+    "channel_id": "13454"
+  },
+  {
+    "id": "169322",
+    "title": "9x Media",
+    "description": "9x Media Channel",
+    "duration": "205",
+    "thumbURL": "http://st1-fs.cdn01.net/videos/0000169/0169322/thumbs/0169322__002f.jpg",
+    "imgURL": "http://st1-fs.cdn01.net/videos/0000169/0169322/thumbs/0169322__002f.jpg",
+    "videoURL": "https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8",
+    "categories": [
+      "Music"
+    ],
+    "channel_id": "13455"
+  }
+]
