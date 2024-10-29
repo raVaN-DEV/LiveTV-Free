@@ -1,0 +1,67 @@
+[
+    {
+      "id": "169313",
+      "title": "Feeling Of Love Mashup",
+      "description": "Best Mashup Of Arijit Singh, Jubin Nautiyal, Atif Aslam",
+      "duration": "86",
+      "thumbURL": "https://i.imgur.com/F17QtN2.png",
+      "imgURL": "https://i.imgur.com/F17QtN2.png",
+      "videoURL": "https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8",
+      "categories": [
+        "Costa Rica Islands"
+      ],
+      "channel_id": "13454"
+    },
+    {
+      "id": "169322",
+      "title": "Scuba Diving - Costa Rica",
+      "description": "Scuba Diving - Costa Rica (Playa Ocotal & The Bat Islands)",
+      "duration": "205",
+      "thumbURL": "http://st1-fs.cdn01.net/videos/0000169/0169322/thumbs/0169322__002f.jpg",
+      "imgURL": "http://st1-fs.cdn01.net/videos/0000169/0169322/thumbs/0169322__002f.jpg",
+      "videoURL": "http://vod-media-fs.cdn01.net/ak5XT3pVVE15Z3pNa1ptWTBFVFprVnpOelV6TnpZR00zTUdPMVFXTTVJbVozWVRPaEp6TnhnSE1fMDA4ODg3MzM3MV9WTFFZT1hXS0FKRVA/encoded/0000169/0169322/video_1880k/S6IZ6M1QM.mp4?source=firetv&channel_id=13455",
+      "categories": [
+        "Costa Rica Underwater"
+      ],
+      "channel_id": "13455"
+    },
+    {
+      "id": "169321",
+      "title": "Radio Mirch",
+      "description": "India today",
+      "duration": "105",
+      "thumbURL": "https://i.imgur.com/FwUCnbF.png",
+      "imgURL": "https://i.imgur.com/FwUCnbF.png",
+      "videoURL": "https://18093.live.streamtheworld.com:443/NJS_HIN_ESTAAC/HLS/0c336a9d-6098-4a1f-a7f3-9e82b2042e4a/0/playlist.m3u8",
+      "categories": [
+        "Youtube"
+      ],
+      "channel_id": "13456"
+    },
+    {
+      "id": "169327",
+      "title": "ZEE",
+      "description": "ZEE News",
+      "duration": "205",
+      "thumbURL": "https://i.imgur.com/cWwyhOx.jpeg",
+      "imgURL": "https://i.imgur.com/cWwyhOx.jpeg",
+      "videoURL": "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8",
+      "categories": [
+        "News"
+      ],
+      "channel_id": "13459"
+    },
+    {
+      "id": "169329",
+      "title": "india",
+      "description": "india today radio",
+      "duration": "205",
+      "thumbURL": "https://camo.githubusercontent.com/40555f78922835cf349fda53f84e9111ab9e67c2acb156bbc7dd88cbff281b3a/68747470733a2f2f692e696d6775722e636f6d2f4d6f686c4535422e706e67",
+      "imgURL": "https://camo.githubusercontent.com/40555f78922835cf349fda53f84e9111ab9e67c2acb156bbc7dd88cbff281b3a/68747470733a2f2f692e696d6775722e636f6d2f4d6f686c4535422e706e67",
+      "videoURL": "https://aajtaklive-amd.akamaized.net/hls/live/2014416-b/aajtak/aajtaklive/live_720p/chunks.m3u8",
+      "categories": [
+        "News"
+      ],
+      "channel_id": "13454"
+    }
+  ]
