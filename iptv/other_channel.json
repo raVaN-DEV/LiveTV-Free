@@ -1,6 +1,6 @@
 [
   {
-    "id": "169313",
+    "id": "176313",
     "title": "7x Music",
     "description": "7x Music Channel",
     "duration": "86",
@@ -10,10 +10,10 @@
     "categories": [
       "Music"
     ],
-    "channel_id": "13454"
+    "channel_id": "13984"
   },
   {
-    "id": "169322",
+    "id": "162322",
     "title": "9x Media",
     "description": "9x Media Channel",
     "duration": "205",
@@ -23,6 +23,6 @@
     "categories": [
       "Music"
     ],
-    "channel_id": "13455"
+    "channel_id": "13412"
   }
 ]
