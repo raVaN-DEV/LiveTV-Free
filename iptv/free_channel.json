@@ -8,7 +8,7 @@
       "imgURL": "https://i.imgur.com/F17QtN2.png",
       "videoURL": "https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8",
       "categories": [
-        "Costa Rica Islands"
+        "Music","Hindi"
       ],
       "channel_id": "101"
     },
@@ -21,7 +21,7 @@
       "imgURL": "http://st1-fs.cdn01.net/videos/0000169/0169322/thumbs/0169322__002f.jpg",
       "videoURL": "http://vod-media-fs.cdn01.net/ak5XT3pVVE15Z3pNa1ptWTBFVFprVnpOelV6TnpZR00zTUdPMVFXTTVJbVozWVRPaEp6TnhnSE1fMDA4ODg3MzM3MV9WTFFZT1hXS0FKRVA/encoded/0000169/0169322/video_1880k/S6IZ6M1QM.mp4?source=firetv&channel_id=13455",
       "categories": [
-        "Costa Rica Underwater"
+        "Vod", "Movie"
       ],
       "channel_id": "102"
     },
@@ -47,7 +47,7 @@
       "imgURL": "https://i.imgur.com/cWwyhOx.jpeg",
       "videoURL": "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8",
       "categories": [
-        "News"
+        "News","Hindi"
       ],
       "channel_id": "104"
     },
@@ -60,7 +60,7 @@
       "imgURL": "https://camo.githubusercontent.com/40555f78922835cf349fda53f84e9111ab9e67c2acb156bbc7dd88cbff281b3a/68747470733a2f2f692e696d6775722e636f6d2f4d6f686c4535422e706e67",
       "videoURL": "https://aajtaklive-amd.akamaized.net/hls/live/2014416-b/aajtak/aajtaklive/live_720p/chunks.m3u8",
       "categories": [
-        "News"
+        "News","Hindi"
       ],
       "channel_id": "105"
     }
