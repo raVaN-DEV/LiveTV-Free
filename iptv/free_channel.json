@@ -1,8 +1,8 @@
 [
-  {
-        "id": "1",
+    {
+        "id": "101",
         "title": "9XM",
-        "description": "9XM",
+        "description": "",
         "duration": "0",
         "thumbURL": "https://i.imgur.com/F17QtN2.png",
         "imgURL": "https://i.imgur.com/F17QtN2.png",
@@ -10,12 +10,12 @@
         "categories": [
           "Music"
         ],
-        "channel_id": "101"
+        "channel_id": "1001"
       },
       {
-        "id": "2",
+        "id": "102",
         "title": "9X Jalwa",
-        "description": "9X Jalwa",
+        "description": "",
         "duration": "0",
         "thumbURL": "https://i.imgur.com/qubgOi5.png",
         "imgURL": "https://i.imgur.com/qubgOi5.png",
@@ -23,12 +23,12 @@
         "categories": [
           "Music"
         ],
-        "channel_id": "102"
+        "channel_id": "1002"
       },
       {
-        "id": "3",
+        "id": "103",
         "title": "Balle Balle",
-        "description": "Balle Balle",
+        "description": "",
         "duration": "0",
         "thumbURL": "https://i.imgur.com/oxkkWH5.png",
         "imgURL": "https://i.imgur.com/oxkkWH5.png",
@@ -36,6 +36,578 @@
         "categories": [
           "Music"
         ],
-        "channel_id": "103"
-      }
+        "channel_id": "1003"
+      },
+      {
+        "id": "201",
+        "title": "E 24",
+        "description": "E 24",
+        "duration": "0",
+        "thumbURL": "https://i.imgur.com/vCaPNTe.png",
+        "imgURL": "https://i.imgur.com/vCaPNTe.png",
+        "videoURL": "https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8",
+        "categories": [
+          "Entertainment"
+        ],
+        "channel_id": "2001"
+      },
+      {
+        "id": "202",
+        "title": "Sony Kal",
+        "description": "Sony Kal",
+        "duration": "0",
+        "thumbURL": "https://i.imgur.com/9Qq8DKh.png",
+        "imgURL": "https://i.imgur.com/9Qq8DKh.png",
+        "videoURL": "https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8",
+        "categories": [
+          "Entertainment"
+        ],
+        "channel_id": "2002"
+      },
+      {
+        "id": "203",
+        "title": "Anjan",
+        "description": "Anjan",
+        "duration": "0",
+        "thumbURL": "https://i.imgur.com/sh0yFSf.png",
+        "imgURL": "https://i.imgur.com/sh0yFSf.png",
+        "videoURL": "https://anjantvevent.pc.cdn.bitgravity.com/anjantv/live/amlst:event_anjan_,b400,b800,b1024,b1200,b1500,b4000,.smil/playlist.m3u8",
+        "categories": [
+          "Entertainment"
+        ],
+        "channel_id": "2003"
+      },
+      {
+        "id": "204",
+        "title": "Apna Punjab",
+        "description": "Apna Punjab",
+        "duration": "0",
+        "thumbURL": "https://i.imgur.com/IM4D8Wz.png",
+        "imgURL": "https://i.imgur.com/IM4D8Wz.png",
+        "videoURL": "https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8",
+        "categories": [
+          "Entertainment"
+        ],
+        "channel_id": "2004"
+      },
+      {
+        "id": "300",
+        "title": "NDTV 24X7",
+        "description": "NDTV 24X7",
+        "duration": "0",
+        "thumbURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/NDTV_247.svg/512px-NDTV_247.svg.png",
+        "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/NDTV_247.svg/512px-NDTV_247.svg.png",
+        "videoURL": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8",
+        "categories": [
+          "News"
+        ],
+        "channel_id": "3000"
+      },
+      {
+        "id": "301",
+        "title": "Aaj Tak",
+        "description": "Aaj Tak",
+        "duration": "0",
+        "thumbURL": "https://i.imgur.com/RpIdCB3.png",
+        "imgURL": "https://i.imgur.com/RpIdCB3.png",
+        "videoURL": "https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8",
+        "categories": [
+          "News"
+        ],
+        "channel_id": "3001"
+      },
+      {
+        "id": "302",
+        "title": "ABP News",
+        "description": "ABP News",
+        "duration": "0",
+        "thumbURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/ABP_News_logo.svg/512px-ABP_News_logo.svg.png",
+        "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/ABP_News_logo.svg/512px-ABP_News_logo.svg.png",
+        "videoURL": "https://abplivetv.akamaized.net/hls/live/2043013/ganga/master.m3u8",
+        "categories": [
+          "News"
+        ],
+        "channel_id": "3002"
+      },
+      {
+        "id": "303",
+        "title": "NDTV India",
+        "description": "NDTV India",
+        "duration": "0",
+        "thumbURL": "https://i.imgur.com/PyDjUZB.png",
+        "imgURL": "https://i.imgur.com/PyDjUZB.png",
+        "videoURL": "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8",
+        "categories": [
+          "News"
+        ],
+        "channel_id": "3003"
+      },
+      {
+        "id": "304",
+        "title": "TV9 Bharatvarsh",
+        "description": "TV9 Bharatvarsh",
+        "duration": "0",
+        "thumbURL": "https://i.imgur.com/GEqUslW.png",
+        "imgURL": "https://i.imgur.com/GEqUslW.png",
+        "videoURL": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8",
+        "categories": [
+          "News"
+        ],
+        "channel_id": "3004"
+      },
+      {
+        "id": "305",
+        "title": "ABP Ganga",
+        "description": "ABP Ganga",
+        "duration": "0",
+        "thumbURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ABP_Ganga.svg/512px-ABP_Ganga.svg.png",
+        "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ABP_Ganga.svg/512px-ABP_Ganga.svg.png",
+        "videoURL": "https://abplivetv.akamaized.net/hls/live/2043013/ganga/master.m3u8",
+        "categories": [
+          "News"
+        ],
+        "channel_id": "3005"
+      },
+      {
+        "id": "306",
+        "title": "News 24",
+        "description": "News 24",
+        "duration": "0",
+        "thumbURL": "https://i.imgur.com/x72O77X.png",
+        "imgURL": "https://i.imgur.com/x72O77X.png",
+        "videoURL": "https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8",
+        "categories": [
+          "News"
+        ],
+        "channel_id": "3006"
+      },
+      {
+        "id": "307",
+        "title": "SamacharPlus 24x7",
+        "description": "SamacharPlus 24x7",
+        "duration": "0",
+        "thumbURL": "https://i.ibb.co/cLXkYvr/IMG-20230610-140232.jpg",
+        "imgURL": "https://i.ibb.co/cLXkYvr/IMG-20230610-140232.jpg",
+        "videoURL": "https://samacharplus.livebox.co.in/samacharplushls/live.m3u8",
+        "categories": [
+          "News"
+        ],
+        "channel_id": "3007"
+      },
+      {
+        "id": "308",
+        "title": "Bharat Samachar",
+        "description": "BharatSamachar",
+        "duration": "0",
+        "thumbURL": "https://i.imgur.com/x5f8E3K.png",
+        "imgURL": "https://i.imgur.com/x5f8E3K.png",
+        "videoURL": "https://idvd.multitvsolution.com/idvo/bharatsamachar.m3u8",
+        "categories": [
+          "News"
+        ],
+        "channel_id": "3008"
+      },
+      {
+        "id": "309",
+        "title": "Sudarshan News",
+        "description": "Sudarshan News",
+        "duration": "0",
+        "thumbURL": "https://i.imgur.com/7AV1VI9.png",
+        "imgURL": "https://i.imgur.com/7AV1VI9.png",
+        "videoURL": "https://ott.livelegitpro.in/pusa/sudarshantv/index.m3u8",
+        "categories": [
+          "News"
+        ],
+        "channel_id": "3009"
+      },
+      {
+        "id": "310",
+        "title": "IBC 24",
+        "description": "IBC 24",
+        "duration": "0",
+        "thumbURL": "https://i.imgur.com/2LbR2a0.png",
+        "imgURL": "https://i.imgur.com/2LbR2a0.png",
+        "videoURL": "https://livetv.ibc24.in/livestream.m3u8",
+        "categories": [
+          "News"
+        ],
+        "channel_id": "3010"
+      },
+      {
+        "id": "311",
+        "title": "INH 24x7",
+        "description": "INH 24x7",
+        "duration": "0",
+        "thumbURL": "https://i.imgur.com/Es3QiVx.png",
+        "imgURL": "https://i.imgur.com/Es3QiVx.png",
+        "videoURL": "https://7epd6o8edk9b-hls-live.wmncdn.net/inh24/live.stream/playlist.m3u8",
+        "categories": [
+          "News"
+        ],
+        "channel_id": "3011"
+      },
+      {
+        "id": "312",
+        "title": "Janta TV",
+        "description": "Janta TV",
+        "duration": "0",
+        "thumbURL": "https://i.imgur.com/0nKfwhV.png",
+        "imgURL": "https://i.imgur.com/0nKfwhV.png",
+        "videoURL": "https://live.wmncdn.net/jantatv/live.stream/index.m3u8",
+        "categories": [
+          "News"
+        ],
+        "channel_id": "3012"
+      },
+      {
+        "id": "313",
+        "title": "KNews India",
+        "description": "KNews India",
+        "duration": "0",
+        "thumbURL": "https://i.imgur.com/LeBL7ML.png",
+        "imgURL": "https://i.imgur.com/LeBL7ML.png",
+        "videoURL": "https://knews.livebox.co.in/youtubehls/live.m3u8",
+        "categories": [
+          "News"
+        ],
+        "channel_id": "3013"
+      },
+      {
+        "id": "314",
+        "title": "Argus News",
+        "description": "Argus News",
+        "duration": "0",
+        "thumbURL": "https://i.imgur.com/cGjRe01.png",
+        "imgURL": "https://i.imgur.com/cGjRe01.png",
+        "videoURL": "https://live.argusnews.in/hls/argustv.m3u8",
+        "categories": [
+          "News"
+        ],
+        "channel_id": "3014"
+      },
+      {
+        "id": "315",
+        "title": "Global Punjab",
+        "description": "Global Punjab",
+        "duration": "0",
+        "thumbURL": "https://i.imgur.com/WDLqcWW.png",
+        "imgURL": "https://i.imgur.com/WDLqcWW.png",
+        "videoURL": "https://server.livelegitpro.in/globalpunjab/globalpunjab/index.m3u8",
+        "categories": [
+          "News"
+        ],
+        "channel_id": "3015"
+      },
+      {
+        "id": "316",
+        "title": "Asianet News Kannada",
+        "description": "Asianet News Kannada",
+        "duration": "0",
+        "thumbURL": "https://i.imgur.com/19joZ1o.png",
+        "imgURL": "https://i.imgur.com/19joZ1o.png",
+        "videoURL": "https://vidcdn.vidgyor.com/suvarna-origin/liveabr/playlist.m3u8",
+        "categories": [
+          "News"
+        ],
+        "channel_id": "3016"
+      },
+      {
+        "id": "401",
+        "title": "Sanskar TV",
+        "description": "Sanskar TV",
+        "duration": "0",
+        "thumbURL": "https://i.imgur.com/SDkiMvR.png",
+        "imgURL": "https://i.imgur.com/SDkiMvR.png",
+        "videoURL": "https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8",
+        "categories": [
+          "Religious"
+        ],
+        "channel_id": "4001"
+      },
+      {
+        "id": "402",
+        "title": "Sanskar UK",
+        "description": "Sanskar UK",
+        "duration": "0",
+        "thumbURL": "https://i.imgur.com/AU5vSPF.png",
+        "imgURL": "https://i.imgur.com/AU5vSPF.png",
+        "videoURL": "https://d34z4embz0hjf6.cloudfront.net/out/v1/7ac2789ff9a544a49337d1ffc54ce61c/index.m3u8",
+        "categories": [
+          "Religious"
+        ],
+        "channel_id": "4002"
+      },
+      {
+        "id": "403",
+        "title": "Sanskar USA",
+        "description": "Sanskar USA",
+        "duration": "0",
+        "thumbURL": "https://i.imgur.com/5WBWruX.png",
+        "imgURL": "https://i.imgur.com/5WBWruX.png",
+        "videoURL": "https://d2netiedy8cz3x.cloudfront.net/out/v1/9bf6fa4ac8d6432cb98da13b121ba3c2/index.m3u8",
+        "categories": [
+          "Religious"
+        ],
+        "channel_id": "4003"
+      },
+      {
+        "id": "405",
+        "title": "Satsang TV",
+        "description": "Satsang TV",
+        "duration": "0",
+        "thumbURL": "https://i.imgur.com/jnsaMrJ.png",
+        "imgURL": "https://i.imgur.com/jnsaMrJ.png",
+        "videoURL": "https://d2vfwvjxwtwq1t.cloudfront.net/out/v1/6b24239d5517495b986e7705490c6e65/index.m3u8",
+        "categories": [
+          "Religious"
+        ],
+        "channel_id": "4005"
+      },
+      {
+        "id": "406",
+        "title": "Sanskar Web TV",
+        "description": "Sanskar Web TV",
+        "duration": "0",
+        "thumbURL": "https://i.imgur.com/mu2B6hw.png",
+        "imgURL": "https://i.imgur.com/mu2B6hw.png",
+        "videoURL": "https://deatfcv3xdvi3.cloudfront.net/out/v1/7a43dd2f64e34ec28da1b4bd6923251a/index.m3u8",
+        "categories": [
+          "Religious"
+        ],
+        "channel_id": "4006"
+      },
+      {
+        "id": "407",
+        "title": "Satsang Web TV",
+        "description": "Satsang Web TV",
+        "duration": "0",
+        "thumbURL": "https://i.imgur.com/40kNu1w.png",
+        "imgURL": "https://i.imgur.com/40kNu1w.png",
+        "videoURL": "https://d1ji7e9jbzm5g8.cloudfront.net/out/v1/769f22f64d80442889306b9c4abea63c/index.m3u8",
+        "categories": [
+          "Religious"
+        ],
+        "channel_id": "4007"
+      },
+      {
+        "id": "408",
+        "title": "Shubh TV",
+        "description": "Shubh TV",
+        "duration": "0",
+        "thumbURL": "https://i.imgur.com/QHv8CL2.png",
+        "imgURL": "https://i.imgur.com/QHv8CL2.png",
+        "videoURL": "https://d2g1vdc6ozl2o8.cloudfront.net/out/v1/0a0dc7d7911b4fddbb4dfc963fdd4b9e/index.m3u8",
+        "categories": [
+          "Religious"
+        ],
+        "channel_id": "4008"
+      },
+      {
+        "id": "409",
+        "title": "Total Bhakti",
+        "description": "Total Bhakti",
+        "duration": "0",
+        "thumbURL": "https://i.imgur.com/LPwRdmF.png",
+        "imgURL": "https://i.imgur.com/LPwRdmF.png",
+        "videoURL": "https://d34z4embz0hjf6.cloudfront.net/out/v1/d55b3323a9f142638f897378f0b526fe/index.m3u8",
+        "categories": [
+          "Religious"
+        ],
+        "channel_id": "4009"
+      },
+      {
+        "id": "410",
+        "title": "Dheeran TV",
+        "description": "Dheeran TV",
+        "duration": "0",
+        "thumbURL": "https://i.imgur.com/jSedjXf.png",
+        "imgURL": "https://i.imgur.com/jSedjXf.png",
+        "videoURL": "https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8",
+        "categories": [
+          "Religious"
+        ],
+        "channel_id": "4010"
+      },
+      {
+        "id": "411",
+        "title": "Ishwar Bhakti TV",
+        "description": "Ishwar Bhakti TV",
+        "duration": "0",
+        "thumbURL": "https://i.imgur.com/tsPPU1Y.png",
+        "imgURL": "https://i.imgur.com/tsPPU1Y.png",
+        "videoURL": "https://6n3yow8pl9ok-hls-live.5centscdn.com/ishwartvlive/tv.stream/playlist.m3u8",
+        "categories": [
+          "Religious"
+        ],
+        "channel_id": "4011"
+      },
+      {
+        "id": "412",
+        "title": "Kanshi TV",
+        "description": "Kanshi TV",
+        "duration": "0",
+        "thumbURL": "https://i.imgur.com/w6uXMrK.png",
+        "imgURL": "https://i.imgur.com/w6uXMrK.png",
+        "videoURL": "https://live.kanshitv.co.uk/mobile/kanshitvkey.m3u8",
+        "categories": [
+          "Religious"
+        ],
+        "channel_id": "4012"
+      },
+      {
+        "id": "413",
+        "title": "Shubhsandesh",
+        "description": "Shubhsandesh",
+        "duration": "0",
+        "thumbURL": "https://i.imgur.com/XsuFVlf.png",
+        "imgURL": "https://i.imgur.com/XsuFVlf.png",
+        "videoURL": "https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8",
+        "categories": [
+          "Religious"
+        ],
+        "channel_id": "4013"
+      },
+      {
+        "id": "414",
+        "title": "SVBC4",
+        "description": "SVBC4",
+        "duration": "0",
+        "thumbURL": "https://i.imgur.com/vCFdZny.png",
+        "imgURL": "https://i.imgur.com/vCFdZny.png",
+        "videoURL": "https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8",
+        "categories": [
+          "Religious"
+        ],
+        "channel_id": "4014"
+      },
+      {
+        "id": "415",
+        "title": "Aastha TV",
+        "description": "Aastha TV",
+        "duration": "0",
+        "thumbURL": "https://en.wikipedia.org/wiki/Aastha_TV#/media/File:Aastha_Logo.svg",
+        "imgURL": "https://en.wikipedia.org/wiki/Aastha_TV#/media/File:Aastha_Logo.svg",
+        "videoURL": "https://aasthaott.akamaized.net/110923/smil:bhajan.smil/chunklist_b264000.m3u8",
+        "categories": [
+          "Religious"
+        ],
+        "channel_id": "4015"
+      },
+      {
+        "id": "901",
+        "title": "Sadhna",
+        "description": "Sadhna",
+        "duration": "0",
+        "thumbURL": "https://i.imgur.com/x13iiuI.png",
+        "imgURL": "https://i.imgur.com/x13iiuI.png",
+        "videoURL": "https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhanalivetv/live.stream/playlist.m3u8",
+        "categories": [
+          "Undefined"
+        ],
+        "channel_id": "9001"
+      },
+      {
+        "id": "902",
+        "title": "Sansad TV",
+        "description": "Sansad TV",
+        "duration": "0",
+        "thumbURL": "https://i.imgur.com/TWSZC2H.png",
+        "imgURL": "https://i.imgur.com/TWSZC2H.png",
+        "videoURL": "https://hls.media.nic.in/hls/live/lstv/lstv.m3u8",
+        "categories": [
+          "Undefined"
+        ],
+        "channel_id": "9002"
+      },
+      {
+        "id": "903",
+        "title": "Namdhari TV",
+        "description": "Namdhari TV",
+        "duration": "0",
+        "thumbURL": "https://i.imgur.com/NalsXTo.png",
+        "imgURL": "https://i.imgur.com/NalsXTo.png",
+        "videoURL": "https://namdhari.tv/live/sbs1.m3u8",
+        "categories": [
+          "Undefined"
+        ],
+        "channel_id": "9003"
+      },
+      {
+        "id": "904",
+        "title": "Kaumudy TV",
+        "description": "Kaumudy TV",
+        "duration": "0",
+        "thumbURL": "https://upload.wikimedia.org/wikipedia/en/7/74/Kaumudy_TV_Logo.jpg",
+        "imgURL": "https://upload.wikimedia.org/wikipedia/en/7/74/Kaumudy_TV_Logo.jpg",
+        "videoURL": "https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/playlist.m3u8",
+        "categories": [
+          "Undefined"
+        ],
+        "channel_id": "9004"
+      },
+      {
+        "id": "905",
+        "title": "Mercy TV",
+        "description": "Mercy TV",
+        "duration": "0",
+        "thumbURL": "https://i.imgur.com/klNH4tV.png",
+        "imgURL": "https://i.imgur.com/klNH4tV.png",
+        "videoURL": "https://5dd3981940faa.streamlock.net/mercytv/mercytv/playlist.m3u8",
+        "categories": [
+          "Undefined"
+        ],
+        "channel_id": "9005"
+      },
+      {
+        "id": "906",
+        "title": "MTA2Europe",
+        "description": "MTA2Europe",
+        "duration": "0",
+        "thumbURL": "https://i.imgur.com/aVts0sz.png",
+        "imgURL": "https://i.imgur.com/aVts0sz.png",
+        "videoURL": "https://chlivemta1.akamaized.net/hls/live/2008145/mta2/playlist.m3u8",
+        "categories": [
+          "Undefined"
+        ],
+        "channel_id": "9006"
+      },
+      {
+        "id": "907",
+        "title": "MTA7Asia",
+        "description": "MTA7Asia",
+        "duration": "0",
+        "thumbURL": "https://i.imgur.com/3Nl8Tpu.png",
+        "imgURL": "https://i.imgur.com/3Nl8Tpu.png",
+        "videoURL": "https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8",
+        "categories": [
+          "Undefined"
+        ],
+        "channel_id": "9007"
+      },
+      {
+        "id": "908",
+        "title": "WeatherSpy",
+        "description": "WeatherSpy",
+        "duration": "0",
+        "thumbURL": "https://i.imgur.com/KIEKOt1.png",
+        "imgURL": "https://i.imgur.com/KIEKOt1.png",
+        "videoURL": "https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8",
+        "categories": [
+          "Undefined"
+        ],
+        "channel_id": "9008"
+      },
+      {
+        "id": "909",
+        "title": "LLBN TV SouthAsia",
+        "description": "LLBN TV SouthAsia",
+        "duration": "0",
+        "thumbURL": "https://i.imgur.com/WsOfy19.png",
+        "imgURL": "https://i.imgur.com/WsOfy19.png",
+        "videoURL": "https://brightstar-southasia-pull-secure.akamaized.net/brightstarsouthasia/stream.m3u8",
+        "categories": [
+          "Undefined"
+        ],
+        "channel_id": "9009"
+      }    
 ]
