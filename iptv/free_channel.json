@@ -39,7 +39,7 @@
         "channel_id": "1003"
       },
       {
-        "id": "201",
+        "id": "104",
         "title": "E 24",
         "description": "E 24",
         "duration": "0",
@@ -47,48 +47,9 @@
         "imgURL": "https://i.imgur.com/vCaPNTe.png",
         "videoURL": "https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8",
         "categories": [
-          "Entertainment"
+          "Music"
         ],
-        "channel_id": "2001"
-      },
-      {
-        "id": "202",
-        "title": "Sony Kal",
-        "description": "Sony Kal",
-        "duration": "0",
-        "thumbURL": "https://i.imgur.com/9Qq8DKh.png",
-        "imgURL": "https://i.imgur.com/9Qq8DKh.png",
-        "videoURL": "https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8",
-        "categories": [
-          "Entertainment"
-        ],
-        "channel_id": "2002"
-      },
-      {
-        "id": "203",
-        "title": "Anjan",
-        "description": "Anjan",
-        "duration": "0",
-        "thumbURL": "https://i.imgur.com/sh0yFSf.png",
-        "imgURL": "https://i.imgur.com/sh0yFSf.png",
-        "videoURL": "https://anjantvevent.pc.cdn.bitgravity.com/anjantv/live/amlst:event_anjan_,b400,b800,b1024,b1200,b1500,b4000,.smil/playlist.m3u8",
-        "categories": [
-          "Entertainment"
-        ],
-        "channel_id": "2003"
-      },
-      {
-        "id": "204",
-        "title": "Apna Punjab",
-        "description": "Apna Punjab",
-        "duration": "0",
-        "thumbURL": "https://i.imgur.com/IM4D8Wz.png",
-        "imgURL": "https://i.imgur.com/IM4D8Wz.png",
-        "videoURL": "https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8",
-        "categories": [
-          "Entertainment"
-        ],
-        "channel_id": "2004"
+        "channel_id": "1004"
       },
       {
         "id": "300",
